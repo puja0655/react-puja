@@ -38,7 +38,7 @@ class Dishdetail extends Component{
             });
             return(
                 <div>
-                    <h4>Comments</h4>
+                    <h5>Comments</h5>
                     <ul className="list-unstyled">{element}</ul>
                 </div>
             );
